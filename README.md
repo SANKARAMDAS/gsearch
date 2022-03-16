@@ -1,5 +1,5 @@
 # gsearch
-Visit the Search Engine
+Visit the Search Engine(Alternate of Google)
 
 
 https://bytepass-search.netlify.app/search
